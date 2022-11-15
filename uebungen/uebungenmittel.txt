@@ -1,0 +1,2 @@
+1. TextAdventure erstellen
+2. verschiedene Sortiermethoden bauen

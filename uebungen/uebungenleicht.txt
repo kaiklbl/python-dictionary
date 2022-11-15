@@ -1,0 +1,8 @@
+1. Hello World ausgeben lassen
+2. seinen Namen in eine Variable und ausgeben lassen mit "Herzlich Wilkommen,"
+3. aufgabe 2 aber dieses mal mit einer funktion wo du den Namen als Argument übergibst
+4. funktion erstellen die eine Zahl verdoppelt und abfragen ob Zahl kleiner als 100 ist falls Ja 
+    gib super aus
+5. Gehalt pro Jahr ausgeben lassen mit funktion
+6. ein Rezeptbuch das bei userEingabe das Rezept anzeigt
+
